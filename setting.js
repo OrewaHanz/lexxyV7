@@ -13,7 +13,7 @@ global.Max_Bug_Attack = 25 // berarti batas maksimal 20× spam bug attack
 global.BotName = 'LorenzoBOT'
 global.OwnerName = 'Lorenzo'
 global.OwnerNumber = '60168667519'
-global.DeveloperBot = ['601137759884','60189439925']
+global.DeveloperBot = ['601137759884','601115351387']
 
 // MESSAGES
 global.mess = {
